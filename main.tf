@@ -16,6 +16,6 @@ provider "aws" {
 # Resource Block
 #Create s3 Bucket
 resource "aws_s3_bucket" "exam"{
-  bucket = "sakthibucket"
+  bucket = "sakthibucketindiapakistan"
   acl = "private"
 }
